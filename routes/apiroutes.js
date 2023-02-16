@@ -17,4 +17,10 @@ router.post('/notes',(req, res) =>{
     res.send("success!");
 })
 
+router.delete('/notes/:id', (req, res )=> {
+    let id = req.params.id;
+    utils.readandRemove(id, "./db/db.json");
+    res.send("success delete!");
+})
+
 module.exports = router;
