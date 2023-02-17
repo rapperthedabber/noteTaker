@@ -1,7 +1,8 @@
 # Note Taker 
   # Description 
   ![Screenshot 2023-02-16 234200](https://user-images.githubusercontent.com/116526260/219551298-fbc61332-6e5f-481b-beb0-728e9ee716bf.png)
-![Screenshot 2023-02-16 234200](https://user-images.githubusercontent.com/116526260/219551329-3884b271-40c4-4bdd-87ed-055e2b12580a.png)
+![Screenshot 2023-02-16 234223](https://user-images.githubusercontent.com/116526260/219551420-a3b950c0-657f-4dbe-af5e-6e03c913c7c8.png)
+
 
 
   This application enables users to take notes and save it as reminder.
