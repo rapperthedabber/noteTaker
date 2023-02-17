@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker 
   # Description 
 
   This application enables users to take notes and save it as reminder.
